@@ -1,8 +1,8 @@
 {
-  "name": "react-scripts",
-  "version": "1.0.7",
+  "name": "react-scripts-styled-components",
+  "version": "1.0.8",
   "description": "Configuration and scripts for Create React App.",
-  "repository": "facebookincubator/create-react-app",
+  "repository": "dennyscott/create-react-app",
   "license": "BSD-3-Clause",
   "engines": {
     "node": ">=6"
@@ -59,6 +59,7 @@
     "whatwg-fetch": "2.0.3"
   },
   "devDependencies": {
+    "babel-plugin-styled-components": "^1.1.4",
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
   },
